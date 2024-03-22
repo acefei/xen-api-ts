@@ -31,5 +31,7 @@ $ echo "PASSWORD=xxx" >> .env
 $ npm test tests/getXapiVersion.ts
 ```
 
+And please find the all of Classes and its Fields in [XenAPI Reference](https://xapi-project.github.io/xen-api)
+
 ## License
 This repository is licensed under the MIT License.
